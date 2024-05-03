@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">Sebastián Battagliola</a> 👋</h1>
+</div>
 
-<!--
-**SebaBattagliola/SebaBattagliola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mi
+
+- 📣 Development Blockchain
+- 💎 I focus on tokenization
+- 🛠 Smart contract for decentralized applications
+- 📗 Book in progress "Decentralized views"
+  
+
+<br>
+
+## Academic record*
+
+- 📖 Industrial engineering up to 4th year - at FCEIA UNR (ARG).
+- 📚 Master in blockchain application and cryptoassets.
+- 📓 Crossovers - Solidity - Node.js and React.js
+- 🔊 Spanish as a native language - study English and Portuguese
+- 🖋 Certified in BINDT 1 - Data Analyst
