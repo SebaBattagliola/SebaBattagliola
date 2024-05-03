@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Sebastián Battagliola</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://aristi.dev">Sebastián Battagliola</a> 👋</h1>
 </div>
 
 
@@ -18,6 +18,6 @@
 
 - 📖 Industrial engineering up to 4th year - at FCEIA UNR (ARG).
 - 📚 Master in blockchain application and cryptoassets.
-- 📓 Crossovers - Solidity - Node.js and React.js
+- 📓 Courses - Solidity - Node.js and React.js
 - 🔊 Spanish as a native language - study English and Portuguese
 - 🖋 Certified in BINDT 1 - Data Analyst
