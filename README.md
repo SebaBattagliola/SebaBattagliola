@@ -26,6 +26,11 @@
 
 ## Interests
 -✅ Participate in tokenization or DeFi projects.
+
 -✅ Participate in DApp development.
+
 -✅ Participate in Smart Contract audits.
+
 -💹 I seek to be part of a competitive company, where I can grow and provide my knowledge to mutually improve.
+
+
