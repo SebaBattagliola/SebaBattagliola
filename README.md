@@ -4,7 +4,7 @@
 
 
 
-## Sobre mi
+## About me
 
 - 📣 Development Blockchain
 - 💎 I focus on tokenization
@@ -14,7 +14,7 @@
 
 <br>
 
-## Academic record*
+## Academic record
 
 - 📖 Industrial engineering up to 4th year - at FCEIA UNR (ARG).
 - 📚 Master in blockchain application and cryptoassets.
