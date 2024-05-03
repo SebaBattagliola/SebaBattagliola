@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://aristi.dev">Sebastián Battagliola</a> 👋</h1>
 </div>
-<img src="https://imgur.com/OUL5iog">
+<img src="https://i.imgur.com/OUL5iog.png">
 
 
 ## About me
